@@ -1,6 +1,6 @@
 # Anotações - Teste Git/GitHub
 
-[Link para o download do GIT] (https://github.com/jrpinda/dio-desafio-github-primeiro-repositorio.git)
+[Link para o download do GIT](https://github.com/jrpinda/dio-desafio-github-primeiro-repositorio.git)
 
 ### O Git Bash é um terminal extendido para otimizar o uso do GIT.
 
